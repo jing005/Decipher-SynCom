@@ -1,4 +1,4 @@
-# Decipher-SynCom
+# Dilution-to-Extiction
 The scripts for genome mining and synthetic community design
 
 Background:
